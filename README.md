@@ -186,20 +186,7 @@ streamlit run app.py
 
 L'application sera accessible depuis le navigateur à l'adresse indiquée par Streamlit, généralement `http://localhost:8501`.
 
-## 9. Limites et perspectives
-
-Ce projet constitue une première approche de la maintenance prédictive à partir de données tabulaires.
-
-Plusieurs améliorations sont envisageables :
-
-- Optimiser le seuil de classification selon le coût des faux négatifs et des faux positifs.
-- Étudier des méthodes adaptées au déséquilibre des classes.
-- Analyser l'importance des variables explicatives.
-- Ajouter des outils d'interprétabilité tels que SHAP.
-- Évaluer la robustesse du modèle sur de nouvelles données industrielles.
-- Développer une chaîne automatisée d'entraînement, de suivi et de déploiement du modèle.
-
-## 10. Ressources
+## 9. Ressources
 
 - **Dataset :** [UCI — AI4I 2020 Predictive Maintenance](https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset)
 - **Code source :** [GitHub — MachinePulse](https://github.com/kami-koba/machinepulse)
